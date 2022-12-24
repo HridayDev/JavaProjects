@@ -7,7 +7,7 @@ public class USDtoINR implements ActionListener {
 	JButton inr = new JButton("USD To INR");
 	JButton usd = new JButton("INR To USD");
 	JLabel ans = new JLabel("");
-	float val = 82.2876999999999967233F;
+	float val = 81.0F;
 	public USDtoINR(){
 		frame.setSize(365, 120);
 		frame.setTitle("Currency Converter");
